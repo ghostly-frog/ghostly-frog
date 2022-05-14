@@ -1,6 +1,6 @@
-- hi, i’m @ghostly-frog
-- i’m interested in games, music, and art :)
-- i’m currently learning Python development, Git and backend engineering.
+- hi, i’m @ghostly-frog!
+- i’m interested in video games, music, and art :)
+- i’m currently learning Python development, Git/GitHub and backend engineering.
 - he/him
 
 <!---
