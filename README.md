@@ -1,6 +1,4 @@
-- hi, i’m @ghostly-frog!
-- i’m interested in video games, music, and art.
-- currently learning game development with Unity.
+Ameteur game + software developer :)
 
 <!---
 ghostly-frog/ghostly-frog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
